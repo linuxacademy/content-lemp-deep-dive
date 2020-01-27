@@ -6,4 +6,4 @@
 
 NGINX - For the NGINX configuration files and HTML/PHP used in the lessons and labs
 
-PHP - For additional PHP code examples used in the lessons and labs
+PHP - For additional PHP code examples used in the lessons and labs not under the NGINX directory
